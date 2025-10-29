@@ -1,0 +1,6 @@
+if CONDITION:
+# This is the block to write code for the condtion
+elif CONDITION:
+# This is the block to write code for the condtion
+else:
+    # This is the block to write code for the condtion
